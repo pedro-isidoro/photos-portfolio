@@ -2,81 +2,81 @@
     {
         "id": 1,
         "src": "/images/corpo_01.jpg",
-        "alt": ""
+        "alt":"My Body Photo 1"
     },
     {
         "id": 2,
         "src": "/images/corpo_02.png",
-        "alt": ""
+        "alt":"My Body Photo 2"
     },
     {
         "id": 3,
         "src": "/images/corpo_03.jpg",
-        "alt": ""
+        "alt":"My Body Photo 3"
     },
     {
         "id": 4,
         "src": "/images/corpo_04.JPG",
-        "alt": ""
+        "alt":"My Body Photo 4"
     },
     {
         "id": 5,
         "src": "/images/corpo_05.webp",
-        "alt": ""
+        "alt":"My Body Photo 5"
     },
     {
         "id": 6,
         "src": "/images/corpo_06.jpg",
-        "alt": ""
+        "alt":"My Body Photo 6"
     },
     {
         "id": 7,
-        "src": "/images/corpo_07.jpg",
-        "alt": ""
+        "src": "/images/corpo_07.png",
+        "alt":"My Body Photo 7"
     },
     {
         "id": 8,
         "src": "/images/corpo_08.jpg",
-        "alt": ""
+        "alt":"My Body Photo 8"
     },
     {
         "id": 9,
         "src": "/images/corpo_09.png",
-        "alt": ""
+        "alt":"My Body Photo 9"
     },
     {
         "id": 10,
         "src": "/images/corpo_10.jpeg",
-        "alt": ""
+        "alt":"My Body Photo 10"
     },
     {
         "id": 11,
         "src": "/images/corpo_11.jpeg",
-        "alt": ""
+        "alt":"My Body Photo 11"
     },
     {
         "id": 21,
         "src": "/images/rosto_01.jpg",
-        "alt": ""
+        "alt":"My Body Photo 21"
     },
     {
         "id": 22,
         "src": "/images/rosto_02.jpg",
-        "alt": ""
+        "alt":"My Face Photo 22"
     },
     {
         "id": 23,
         "src": "/images/rosto_03.jpg",
-        "alt": ""
+        "alt":"My Face Photo 23"
     },
     {
         "id": 24,
         "src": "/images/rosto_04.jpg",
-        "alt": ""
+        "alt":"My Face Photo 24"
     },
     {
         "id": 25,
         "src": "/images/rosto_05.jpg",
-        "alt": ""
+        "alt":"My Face Photo 25"
     }
 ]

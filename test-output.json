@@ -1,0 +1,26 @@
+{"numTotalTestSuites":6,"numPassedTestSuites":6,"numFailedTestSuites":0,"numPendingTestSuites":0,"numTotalTests":9,"numP    <testsuite name="src/tests/App.spec.tsx" timestamp="2024-10-07T21:20:03.128Z" hostname="Pedro" tests="4" failures="0" errors="0" skipped="0" time="0.1707272">
+        <testcase classname="src/tests/App.spec.tsx" name="App - Main Content &gt; should render the top text" time="0.0927952">
+        </testcase>
+        <testcase classname="src/tests/App.spec.tsx" name="App - Main Content &gt; should render the bottom text" time="0.0191259">
+        </testcase>
+        <testcase classname="src/tests/App.spec.tsx" name="App - Main Content &gt; should render the body photo Image" time="0.0163065">
+        </testcase>
+        <testcase classname="src/tests/App.spec.tsx" name="App - Main Content &gt; should render the face photo Image" time="0.034514">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/tests/AsiderMenu.spec.tsx" timestamp="2024-10-07T21:20:03.147Z" hostname="Pedro" tests="4" failures="0" errors="0" skipped="0" time="0.4003061">
+        <testcase classname="src/tests/AsiderMenu.spec.tsx" name="Header - AsiderMenu Component &gt; should render menu icon initially" time="0.0685681">
+        </testcase>
+        <testcase classname="src/tests/AsiderMenu.spec.tsx" name="Header - AsiderMenu Component &gt; should open menu and display close icon when menu icon is clicked" time="0.1277423">
+        </testcase>
+        <testcase classname="src/tests/AsiderMenu.spec.tsx" name="Header - AsiderMenu Component &gt; should display &apos;Sobre&apos; title when menu is opened" time="0.0616224">
+        </testcase>
+        <testcase classname="src/tests/AsiderMenu.spec.tsx" name="Header - AsiderMenu Component &gt; should close the menu when close icon is clicked" time="0.1393529">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/tests/FooterButton.spec.tsx" timestamp="2024-10-07T21:20:03.148Z" hostname="Pedro" tests="1" failures="0" errors="0" skipped="0" time="0.0529421">
+        <testcase classname="src/tests/FooterButton.spec.tsx" name="Footer - Footer Button Content &gt; should render the scroll to top button" time="0.0507216">
+        </testcase>
+    </testsuite>
+</testsuites>
+":"Header - AsiderMenu Component should display 'Sobre' title when menu is opened","status":"passed","title":"should display 'Sobre' title when menu is opened","duration":61.62239999999974,"failureMessages":[],"meta":{}},{"ancestorTitles":["Header - AsiderMenu Component"],"fullName":"Header - AsiderMenu Component should close the menu when close icon is clicked","status":"passed","title":"should close the menu when close icon is clicked","duration":139.35289999999986,"failureMessages":[],"meta":{}}],"startTime":1728336002646,"endTime":1728336003043.3528,"status":"passed","message":"","name":"C:/Users/pedro/OneDrive/Área de Trabalho/Curso-Dev-Quest/projetos/Mine/photos-portfolio/src/tests/AsiderMenu.spec.tsx"},{"assertionResults":[{"ancestorTitles":["Footer - Footer Button Content"],"fullName":"Footer - Footer Button Content should render the scroll to top button","status":"passed","title":"should render the scroll to top button","duration":50.72159999999985,"failureMessages":[],"meta":{}}],"startTime":1728336002371,"endTime":1728336002421.7217,"status":"passed","message":"","name":"C:/Users/pedro/OneDrive/Área de Trabalho/Curso-Dev-Quest/projetos/Mine/photos-portfolio/src/tests/FooterButton.spec.tsx"}]}

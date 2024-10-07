@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="1" failures="0" errors="0" time="1.456">
+    <testsuite name="src/tests/App.spec.tsx" timestamp="2024-10-05T00:13:33.877Z" hostname="Pedro" tests="1" failures="0" errors="0" skipped="0" time="0.0030286">
+        <testcase classname="src/tests/App.spec.tsx" name="App - Content &gt; should render the Top Text" time="0.001549">
+        </testcase>
+    </testsuite>
+</testsuites>

@@ -9,12 +9,12 @@ export function AsiderMenu () {
     const [isOpen, SetIsOpen ] = useState(false)
   return (
     <header id="hero_menu" className="w-full h-full fixed top-0 z-[5]">
-        <div className="w-full h-full flex justify-end transition-all">
-            {isOpen ? (
-                <section className="w-[70%] h-full relative z-[10] transition-all sm:w-[50%] md:w-[35%] xl:w-[30%]">
+        <div className="w-full h-screen flex justify-end transition-all">
+            {isOpen === true ? (
+                <section className="w-[70%] h-full relative z-[40] transition-all sm:w-[50%] md:w-[35%] xl:w-[30%]">
                     <div className="w-full h-full top-0 left-0 absolute bg-[#0a0a0a] dark:bg-[#EFEDB9]">
-                        <IoIosClose className="w-12 h-[6%] text-[#EFEDB9] dark:text-[#0a0a0a] cursor-pointer" onClick={() => SetIsOpen(!isOpen)} />
-                        <div id="about" className="flex flex-col justify-center items-center gap-6 md:gap-8 px-8 pt-10 text-[#EFEDB9] dark:text-[#0a0a0a]">
+                        <IoIosClose data-testid="close-icon" className="w-12 h-[6%] text-[#EFEDB9] dark:text-[#0a0a0a] cursor-pointer" onClick={() => SetIsOpen(!isOpen)} />
+                        <div className="flex flex-col justify-center items-center gap-6 md:gap-8 px-8 pt-10 text-[#EFEDB9] dark:text-[#0a0a0a]">
                             <h2 className="text-2xl font-medium pb-6 md:pb-4">Sobre</h2>
                             <h4 className="text-xl font-medium md:text-2xl">Pedro Isidoro</h4>
                             <div className="flex justify-center items-center gap-10">
@@ -47,7 +47,7 @@ export function AsiderMenu () {
                     </div>
                 </section>
             ): (
-                <IoMenuOutline className="w-12 h-[6%] text-[#0a0a0a] dark:text-[#EFEDB9] cursor-pointer pr-2" onClick={() => SetIsOpen(true)} />
+                <IoMenuOutline data-testid="menu-icon" className="w-12 h-[6%] text-[#0a0a0a] dark:text-[#EFEDB9] cursor-pointer pr-2" onClick={() => {SetIsOpen(!isOpen)}} />
             )}
         </div>
     </header>
