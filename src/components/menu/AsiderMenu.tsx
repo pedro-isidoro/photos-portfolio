@@ -22,7 +22,7 @@ export function AsiderMenu () {
                                 <p className="border-b-2 border-b-[#EFEDB9] dark:border-b-[#0a0a0a] border-t-none">Brasil - São Paulo</p>
                             </div>
                             <p className="border-b-2 border-b-[#EFEDB9] dark:border-b-[#0a0a0a] text-justify md:text-lg">
-                                Sou apenas um estudante de TI, metido a masterchef amador, amante de livros e da 7° arte e música, além de ser um gato de academia.
+                                Um jovem estudante de TI, com 21 anos, metido a masterchef amador, amante de livros e da 7° arte e música, além de ser um gato de academia.
                             </p>
                         </div>
                         <div id="about" className="flex flex-col justify-center items-center gap-6 px-8 pt-10 text-[#EFEDB9] dark:text-[#0a0a0a]">
